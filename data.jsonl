@@ -1,0 +1,45 @@
+{"subject": "Physics", "question": "What is the acceleration due to gravity on Earth?", "options": ["9.8 m/s²", "10 m/s²", "8.9 m/s²", "9.2 m/s²"], "answer": "9.8 m/s²"}
+{"subject": "Physics", "question": "Which law states that force equals mass times acceleration?", "options": ["Newton's First Law", "Newton's Second Law", "Newton's Third Law", "Law of Conservation of Energy"], "answer": "Newton's Second Law"}
+{"subject": "Physics", "question": "The SI unit of work is:", "options": ["Newton", "Joule", "Watt", "Pascal"], "answer": "Joule"}
+{"subject": "Physics", "question": "Which of the following is a scalar quantity?", "options": ["Force", "Velocity", "Work", "Acceleration"], "answer": "Work"}
+{"subject": "Physics", "question": "What is the dimensional formula of velocity?", "options": ["[M⁰L¹T⁻¹]", "[M¹L¹T⁻²]", "[M⁰L¹T⁰]", "[M⁰L⁰T⁻¹]"], "answer": "[M⁰L¹T⁻¹]"}
+{"subject": "Physics", "question": "What is the dimensional formula of force?", "options": ["M L T⁻²", "M L² T⁻²", "M L T⁻¹", "M² L T⁻²"], "answer": "M L T⁻²"}
+{"subject": "Physics", "question": "A projectile is fired at an angle of 45°. What is the maximum range on level ground if initial velocity is u?", "options": ["u²/g", "u²/2g", "2u²/g", "u²/4g"], "answer": "u²/g"}
+{"subject": "Physics", "question": "Which of the following is NOT a thermodynamic process?", "options": ["Isothermal", "Isochoric", "Isobaric", "Isotonic"], "answer": "Isotonic"}
+{"subject": "Physics", "question": "What is the acceleration due to gravity on Earth?", "options": ["9.8 m/s²", "10 m/s²", "8.9 m/s²", "9.2 m/s²"], "answer": "9.8 m/s²"}
+{"subject": "Physics", "question": "The SI unit of electric current is:", "options": ["Coulomb", "Volt", "Ampere", "Ohm"], "answer": "Ampere"}
+{"subject": "Physics", "question": "Which of the following has the highest wavelength?", "options": ["Gamma rays", "X-rays", "Visible light", "Radio waves"], "answer": "Radio waves"}
+{"subject": "Physics", "question": "A body is thrown vertically upwards. The time taken to reach the maximum height is given by:", "options": ["u/g", "2u/g", "u²/2g", "u²/g"], "answer": "u/g"}
+{"subject": "Physics", "question": "A transformer works on the principle of:", "options": ["Conduction", "Electromagnetic induction", "Convection", "Ohm’s Law"], "answer": "Electromagnetic induction"}
+{"subject": "Physics", "question": "What is the unit of resistivity?", "options": ["Ohm", "Ohm-meter", "Volt", "Ampere"], "answer": "Ohm-meter"}
+{"subject": "Physics", "question": "Which of the following is a vector quantity?", "options": ["Work", "Energy", "Power", "Momentum"], "answer": "Momentum"}
+{"subject": "Chemistry", "question": "What is the atomic number of Carbon?", "options": ["6", "7", "8", "12"], "answer": "6"}
+{"subject": "Chemistry", "question": "Which gas is evolved when zinc reacts with hydrochloric acid?", "options": ["Oxygen", "Hydrogen", "Carbon dioxide", "Nitrogen"], "answer": "Hydrogen"}
+{"subject": "Chemistry", "question": "The pH of a neutral solution is:", "options": ["0", "7", "14", "1"], "answer": "7"}
+{"subject": "Chemistry", "question": "What is the chemical formula of Sulfuric Acid?", "options": ["HCl", "H₂SO₄", "HNO₃", "NaOH"], "answer": "H₂SO₄"}
+{"subject": "Chemistry", "question": "Which element has the highest electronegativity?", "options": ["Oxygen", "Fluorine", "Chlorine", "Nitrogen"], "answer": "Fluorine"}
+{"subject": "Chemistry", "question": "Which element has the highest first ionization energy?", "options": ["Oxygen", "Fluorine", "Nitrogen", "Neon"], "answer": "Neon"}
+{"subject": "Chemistry", "question": "The rate of a chemical reaction doubles when the temperature increases from 300K to 310K. What is the activation energy?", "options": ["58 kJ/mol", "48 kJ/mol", "68 kJ/mol", "78 kJ/mol"], "answer": "58 kJ/mol"}
+{"subject": "Chemistry", "question": "Which type of hybridization is present in methane (CH₄)?", "options": ["sp", "sp²", "sp³", "sp³d"], "answer": "sp³"}
+{"subject": "Chemistry", "question": "What is the atomic number of Carbon?", "options": ["6", "7", "8", "12"], "answer": "6"}
+{"subject": "Chemistry", "question": "What is the chemical formula of Sulfuric Acid?", "options": ["HCl", "H₂SO₄", "HNO₃", "NaOH"], "answer": "H₂SO₄"}
+{"subject": "Chemistry", "question": "Which of the following has the highest pH value?", "options": ["Hydrochloric acid", "Water", "Sodium hydroxide", "Milk"], "answer": "Sodium hydroxide"}
+{"subject": "Chemistry", "question": "Which law states that mass is neither created nor destroyed in a chemical reaction?", "options": ["Boyle's Law", "Avogadro's Law", "Law of Conservation of Mass", "Dalton’s Law"], "answer": "Law of Conservation of Mass"}
+{"subject": "Chemistry", "question": "Which type of bond is formed by sharing of electrons?", "options": ["Ionic bond", "Covalent bond", "Metallic bond", "Hydrogen bond"], "answer": "Covalent bond"}
+{"subject": "Chemistry", "question": "Which of the following is an example of a noble gas?", "options": ["Oxygen", "Helium", "Nitrogen", "Hydrogen"], "answer": "Helium"}
+{"subject": "Chemistry", "question": "Which of the following is the correct formula for bleaching powder?", "options": ["CaCl₂", "CaOCl₂", "Ca(OH)₂", "CaCO₃"], "answer": "CaOCl₂"}
+{"subject": "Mathematics", "question": "What is the value of the determinant of the matrix [[1,2], [3,4]]?", "options": ["-2", "2", "1", "0"], "answer": "-2"}
+{"subject": "Mathematics", "question": "If f(x) = x² + 2x + 3, what is f'(x)?", "options": ["2x + 2", "x + 2", "2x", "x² + 2"], "answer": "2x + 2"}
+{"subject": "Mathematics", "question": "The sum of the first 10 natural numbers is:", "options": ["50", "55", "60", "45"], "answer": "55"}
+{"subject": "Mathematics", "question": "What is the derivative of sin(x)?", "options": ["cos(x)", "-sin(x)", "-cos(x)", "tan(x)"], "answer": "cos(x)"}
+{"subject": "Mathematics", "question": "What is the integral of 1/x dx?", "options": ["ln|x| + C", "x ln(x) + C", "e^x + C", "x²/2 + C"], "answer": "ln|x| + C"}
+{"subject": "Mathematics", "question": "What is the derivative of sin(x)?", "options": ["cos(x)", "-sin(x)", "-cos(x)", "tan(x)"], "answer": "cos(x)"}
+{"subject": "Mathematics", "question": "What is the integral of 1/x dx?", "options": ["ln|x| + C", "x ln(x) + C", "e^x + C", "x²/2 + C"], "answer": "ln|x| + C"}
+{"subject": "Mathematics", "question": "Which of the following is a root of the equation x² - 5x + 6 = 0?", "options": ["1", "2", "3", "4"], "answer": "2"}
+{"subject": "Mathematics", "question": "What is the sum of interior angles of a hexagon?", "options": ["360°", "540°", "720°", "900°"], "answer": "720°"}
+{"subject": "Mathematics", "question": "The probability of getting a sum of 7 when rolling two fair dice is:", "options": ["1/6", "1/12", "1/8", "1/9"], "answer": "1/6"}
+{"subject": "Mathematics", "question": "What is the value of lim (x → 0) (sin x)/x?", "options": ["0", "1", "∞", "Undefined"], "answer": "1"}
+{"subject": "Mathematics", "question": "The area of a triangle with vertices (0,0), (a,0), and (0,b) is:", "options": ["ab", "ab/2", "(a+b)/2", "a² + b²"], "answer": "ab/2"}
+{"subject": "Mathematics", "question": "The sum of the first n natural numbers is given by:", "options": ["n(n+1)/2", "n²", "n(n-1)/2", "(n+1)/2"], "answer": "n(n+1)/2"}
+{"subject": "Mathematics", "question": "What is the derivative of e^x?", "options": ["e^x", "x e^x", "1/e^x", "x"], "answer": "e^x"}
+{"subject": "Mathematics", "question": "If A and B are two sets, then A ∩ (A ∪ B) equals:", "options": ["A", "B", "A ∩ B", "A ∪ B"], "answer": "A"}
